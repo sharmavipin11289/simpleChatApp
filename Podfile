@@ -6,6 +6,6 @@ target 'simpleChat' do
   use_frameworks!
 
   # Pods for simpleChat
-pod 'Firebase/Analytics'
-
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Crashlytics'
 end
