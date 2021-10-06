@@ -8,4 +8,5 @@ target 'simpleChat' do
   # Pods for simpleChat
   pod 'Firebase/Analytics'
   pod 'Firebase/Crashlytics'
+  pod 'Firebase/Messaging'
 end
